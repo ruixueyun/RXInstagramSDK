@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'RXInstagramSDK'
-  s.version          = '1.0.1'
+  s.version          = '1.0.2'
 #  s.version          = '1.0.0.100'
   s.summary          = 'ruixue RXInstagramSDK framework.'
 
